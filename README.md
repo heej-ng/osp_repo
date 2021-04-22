@@ -1,4 +1,4 @@
 # osp_repo
-for testing
+Open Source Programming
 
 -------------------------
